@@ -24,20 +24,22 @@ This setup script is designed for use in a secure, controlled environment where 
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/labrat-weasel-setup.git
-   cd labrat-weasel-setup
+   git clone https://github.com/labrat-0/weasel-tools.git
+   cd weasel-tools/
    ```
 
 2. **Run the setup script:**
+  
    ```bash
-   ./setup.sh
+   chmod +x weasel-tools.sh
+   ./weasel-tools.sh
    ```
 
-3. **Follow the prompt:**
+4. **Follow the prompt:**
    - Press `Enter` to begin the setup
    - Press `q` to abort
 
-4. **Post-installation:**
+5. **Post-installation:**
    - Restart your terminal or run `source ~/.zshrc` to activate aliases
    - Launch tmux with `tmux`
    - Open Neovim with `nvim`
