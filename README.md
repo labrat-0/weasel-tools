@@ -1,10 +1,10 @@
 # 🧪 LabRat Mick's WEASEL Tools Setup
 
-*Supercharge your Windows 11 WSL2 Ubuntu LTS environment* 🚀
+*Supercharge your Windows 11 WSL2(Weasel😆) Ubuntu LTS environment* 🚀
 
 ## 🎯 Overview
 
-This project provides an automated setup script to configure a powerful and personalized development environment within WSL2 on Windows 11, based on Ubuntu LTS.
+This project provides an automated setup script to configure a powerful and personalized environment within WSL2 on Windows 11, based on Ubuntu LTS.
 
 ### ✨ Features
 
@@ -76,6 +76,6 @@ MIT License © LabRat 🐀
 
 Made with ❤️ by Mick
 
-**LabRat Mick's WEASEL Tools — Your WSL2 Dev Environment Starter Kit**
+**LabRat Mick's WEASEL Tools — Your MS WSL2 Environment Starter Kit**
 
 </div>
