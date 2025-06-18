@@ -50,7 +50,7 @@ grep -q 'PROMPT="%~ %# "' ~/.zshrc || echo 'PROMPT="%~ %# "' >> ~/.zshrc
 # Append your custom aliases to .zshrc (avoid duplicates)
 grep -qxF "# LabRat Custom Aliases Start" ~/.zshrc || cat >> ~/.zshrc << 'EOF'
 
-# LabRat Custom Aliases Start
+# LabRat Custom Aliases | Please edit to your liking. This is just a template
 
 alias cdw='cd "/mnt/c" && nvim'
 alias cdh='cd "/mnt/c" && nvim'
